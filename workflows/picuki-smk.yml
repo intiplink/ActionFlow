@@ -1,7 +1,7 @@
 name: Instagram SMKN 1 Kudus	
 on:
   rss:
-    url: https://rsshub-ten.vercel.app/picuki/profile/smk_n_1_kudus
+    url: https://rsshub-ten.vercel.app/picuki/profile/smkn1kudus_official
 jobs:
   email:
     name: Post a email
